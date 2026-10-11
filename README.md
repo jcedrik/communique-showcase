@@ -78,6 +78,6 @@ rulings: the engine is held to the same standard a human reviewer would be.
 
 ## Links
 
-- App Store: APP_STORE_LINK
+- App Store: https://apps.apple.com/ca/app/communique/id6797602279 
 - Site and how-it-works: [communique.page](https://communique.page)
 - Author: [Jean-Cédrik Dorélas](https://jcedrik.com)
