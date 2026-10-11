@@ -1,6 +1,6 @@
 # CommUnique
 
-[![App Store](https://img.shields.io/badge/App%20Store-shipped%20Sep%202026-0A0F2C.svg)](APP_STORE_LINK)
+[![App Store](https://img.shields.io/badge/App%20Store-shipped%20Sep%202026-0A0F2C.svg)](https://apps.apple.com/ca/app/communique/id6797602279)
 ![tests](https://img.shields.io/badge/tests-~1%2C000%20across%2023%20suites-success.svg)
 ![privacy](https://img.shields.io/badge/privacy-anonymous%20by%20design-2EC4FF.svg)
 [![site](https://img.shields.io/badge/site-communique.page-C8FF00.svg)](https://communique.page)
@@ -22,7 +22,7 @@ flowchart LR
     L --> E[Deterministic rule engine<br/>7 rules, each with a legal citation]
     E --> C{Confidence}
     C -->|high| R[Plain-language report<br/>findings + references]
-    C -->|low| A[Abstain<br/>"not enough evidence to conclude"]
+    C -->|low| A[Abstain<br/>not enough evidence to conclude]
     E --> X[3-tier name lookup<br/>230,000 CIPO trademarks<br/>642,000 Quebec business names]
     R --> D[(Postgres<br/>90-day auto-deletion)]
 ```
@@ -78,6 +78,6 @@ rulings: the engine is held to the same standard a human reviewer would be.
 
 ## Links
 
-- App Store: https://apps.apple.com/ca/app/communique/id6797602279 
+- App Store: https://apps.apple.com/ca/app/communique/id6797602279
 - Site and how-it-works: [communique.page](https://communique.page)
 - Author: [Jean-Cédrik Dorélas](https://jcedrik.com)
